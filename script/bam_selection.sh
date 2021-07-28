@@ -7,8 +7,8 @@ export PYTHONPATH=$PYTHONPATH:#Input your PYTHONPATH
 #Reference
 Reference_fasta=xxx/xxx/xxx
 #Text file with the path of the bam file
-bam_file=/lustre7/home/s-saiga/average_depth_analysis/multi_align_Yotsuboshi_Houkou/Yotsuboshi_bam_bai/bam.txt
-#used x\cpu
+bam_file=xxx/xxx/xxx/aaa_bam.txt
+#used cpu
 used_cpu=8
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #染色体の長さを取得
